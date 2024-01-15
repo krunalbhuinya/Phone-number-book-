@@ -5,5 +5,7 @@ details  save in text file format
 
 '
 pip install termcolor
-pip install colored'
+
+pip install colored
+'
 
